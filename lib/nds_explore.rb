@@ -21,4 +21,4 @@ while row_index < movies.count do
 row_index += 1
 
 end
-
+end
