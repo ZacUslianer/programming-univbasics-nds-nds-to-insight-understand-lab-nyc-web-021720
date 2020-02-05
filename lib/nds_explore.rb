@@ -25,3 +25,9 @@ row_index += 1
 
 end
 end
+
+#row_index = 0 
+#while row_index < movies.count do 
+ # puts movies[row_index]
+  #row_index += 1 
+#end
