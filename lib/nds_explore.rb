@@ -14,10 +14,10 @@ pretty_print_nds(directors_database)
 movies = directors_database[0][:movies]
 
 row_index = 0 
-while row_index < movies.count do 
+while row_index < directors_database[0][:movies].count do 
   element_index = 0 
-  while element_index < movies[row_index].count do 
-    puts movies[row_index][element_index]
+  while element_index < directors_database[0][:movies][row_index].count do 
+    puts directors_database[0][:movies][row_index][element_index]
     element_index += 1 
     
 end
