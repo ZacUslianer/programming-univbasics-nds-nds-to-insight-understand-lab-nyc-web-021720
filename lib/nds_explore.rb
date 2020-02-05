@@ -16,7 +16,7 @@ movies = directors_database[0][:movies]
 
 row_index = 0 
 while row_index < movies.count do 
-  
+  puts movies[row_index][0]
  row_index += 1
 
 end
