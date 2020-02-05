@@ -15,10 +15,10 @@ movies = directors_database[0][:movies]
 
 #row_index = 0 
 #while row_index < movies.count do 
-  element_index = 0 
-  while element_index < movies[row_index].count do 
-    puts movies[row_index][element_index]
-    element_index += 1 
+  # element_index = 0 
+  #while element_index < movies[row_index].count do 
+   # puts movies[row_index][element_index]
+    # element_index += 1 
     
 end
 row_index += 1
