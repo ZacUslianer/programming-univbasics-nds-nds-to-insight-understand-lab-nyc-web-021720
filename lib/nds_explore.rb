@@ -20,9 +20,9 @@ movies = directors_database[0][:movies]
    # puts movies[row_index][element_index]
     # element_index += 1 
     
-end
-row_index += 1
+#end
+# row_index += 1
 
-end
-end
+#end
+# end
 
